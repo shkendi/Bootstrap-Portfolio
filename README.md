@@ -73,12 +73,23 @@ In this challenge I am required to build a personal portfolio using Bootstrap CS
 - Following the instructios given from my teacher, I started by creating a new repository named 'Bootstrap-Portfolio'
 - I cloned the repo into my computer
 - Then I created an index.html, a css folder with a style.cdd file in it and an images folder where I added all my images that I was going to use for my portfolio.
+
+![Alt text](<Screenshot 2023-12-12 at 18.15.22.png>)
+
 - I read through Bootstrap mdn to further my knowledge and to structure my portfolio using the Bootstrap Framework.
+
+![Alt text](<Screenshot 2023-12-12 at 18.15.11.png>)
 
 ## Future improvements
 
 1. I need to get the skills section to display correctly​.
+
+![Alt text](<Screenshot 2023-12-12 at 18.12.50.png>)
+
 2. When I switch to mobile screen, I can see my sections displayed correctly using the full available screen space.
+
+![Alt text](<Screenshot 2023-12-12 at 18.14.04.png>)
+
 3. Getting to use Bootstrap classes widely and effectively.
 
 ## Helpful Resources
