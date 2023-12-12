@@ -78,6 +78,8 @@ In this challenge I am required to build a personal portfolio using Bootstrap CS
 
 - I read through Bootstrap mdn to further my knowledge and to structure my portfolio using the Bootstrap Framework.
 
+- My final product was a personal portfolio with an "About me, Skills, Projects and Contact Me" sections. The sections are linked properly and directs us to the right section when clicking on them. The contact Me page looks good and allow us to write on it. The projects page works well and each project is linked to the depoyed link if the project really exists, otherwise it's going to take us somewhere else. The GitHub link works and takes us to the right place.
+
 ![Alt text](<Screenshot 2023-12-12 at 18.15.11.png>)
 
 ## Future improvements
